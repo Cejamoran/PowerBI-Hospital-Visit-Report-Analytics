@@ -5,7 +5,7 @@ This repository features a **Power BI** dashboard focused on analyzing operation
 
 ## 🔗 View the Live Dashboard
 
-[**View the Interactive Dashboard in Power BI Service**](PASTE YOUR POWER BI SERVICE LINK HERE)
+<img width="1328" height="628" alt="Image" src="https://github.com/user-attachments/assets/e17bd451-2375-4753-b9db-dc590ed9e8d5" />
 
 ---
 
